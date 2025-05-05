@@ -1,22 +1,9 @@
-## Hi there 👋
 
-<!--
-**zavieruka/zavieruka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# 💫 About Me:
-👋 Hi, I’m Mateus Zavieruka — a developer and computer technician based in 🇧🇷 Brazil.<br>💻 I work on full-stack projects using React, TypeScript, Fastify, and PostgreSQL.<br>📂 Currently building a legal document system with AI-powered data extraction.<br>🌱 Learning about Data Structures and Algorithms (by solving every leetcode problem)
-
+# About me:
+👋 Hey, I'm Mateus Zavieruka — a full-stack developer based in Brazil.
+💻 I build stuff with React, TypeScript, Fastify, and PostgreSQL.
+📂 Right now, I’m working on a legal document system that uses AI to extract data.
+🌱 On the side, I'm sharpening my DSA skills by working through every LeetCode problem (all of them, really).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ma.zavieruka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-zavieruka-880955332/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zvkmateus@gmail.com) 
