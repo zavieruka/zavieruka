@@ -2,8 +2,8 @@
 # About me:
 👋 Hey, I'm Mateus Zavieruka — a full-stack developer based in Brazil. <br>
 💻 I mostly build projects with React, TypeScript, Fastify, and PostgreSQL. <br>
-📂 Right now, I’m working on a legal document system that uses AI to extract data. <br>
-🌱 On the side, I'm sharpening my DSA skills by working through every LeetCode problem (all of them, really).
+🌱 On the side, I'm sharpening my DSA skills by working through every LeetCode problem (all of them, really). <br>
+🌳 Also improving my knowledge on the Go programming language with Alura!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-zavieruka-880955332/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ma.zavieruka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zvkmateus@gmail.com) 
