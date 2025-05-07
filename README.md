@@ -5,7 +5,7 @@
 🌱 On the side, I'm sharpening my DSA skills by working through every LeetCode problem (all of them, really). <br>
 🌳 Also improving my knowledge on the Go programming language with Alura!
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-zavieruka-880955332/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ma.zavieruka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zvkmateus@gmail.com) 
 
 ## 💻 Programming Languages & Fundamentals:
