@@ -5,7 +5,7 @@ on the side, I've been studying more software infrastructure and architecture. <
 also working for my Google's Associate Cloud Engineer Certification
 
 ### Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateus-zavieruka-880955332/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ma.zavieruka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zvkmateus@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@ma.zavieruka) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zvkmateus@gmail.com) 
 
 ## programming languages & fundamentals:
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
